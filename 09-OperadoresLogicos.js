@@ -22,7 +22,7 @@ const ciudadesDisponibles = new Array("Bogotá", "Lima", "Santiago", "Montevideo
 let edadPasajero = 17;
 let estaAcompanado = true;
 
-console.log(`Verificando pasajes para  ${ciudadDestino}`);
+console.log('Verificando pasajes para  ${ciudadDestino}');
 if ((ciudadesDisponibles.indexOf(ciudadDestino) > -1) &&
     (edadPasajero >= 18 || estaAcompanado)) {
     console.log('Pasaje disponible para venta');
