@@ -7,7 +7,7 @@ const ciudadesDisponibles = new Array("Bogotá","Lima","Santiago");
 //console.log(ciudadesDisponibles);
 
 //Definición de una lista de forma abreviada
-const paisesDisponibles = ["Colombia","Perú","Chile","Brasil","Argentina"];
+const paisesDisponibles = ["Colombia","Perú","Brasil","Argentina"];
 //console.log(paisesDisponibles);
 
 
